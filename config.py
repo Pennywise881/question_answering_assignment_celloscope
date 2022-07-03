@@ -3,15 +3,15 @@ exp = "exp-1"
 
 # data directories
 # data_dir = "/Users/gdamien/Data/squad/"
-data_dir = "/content/question_answering/Data/squad/"
+data_dir = "/content/question_answering_assignment_celloscope/Data/squad/"
 train_dir = data_dir + "train/"
 dev_dir = data_dir + "dev/"
 
 # model paths
 # spacy_en = "/Users/gdamien/Data/spacy/en_core_web_sm-2.0.0/en_core_web_sm/en_core_web_sm-2.0.0"
-spacy_en = "/content/question_answering/Data/spacy/en_core_web_sm-2.0.0/en_core_web_sm/en_core_web_sm-2.0.0"
-glove = "/content/question_answering/glove_6B/" + "glove.6B.{}d.txt"
-squad_models = "content/question_answering/output/" + exp
+spacy_en = "/content/question_answering_assignment_celloscope/Data/spacy/en_core_web_sm-2.0.0/en_core_web_sm/en_core_web_sm-2.0.0"
+glove = "/content/question_answering_assignment_celloscope/glove_6B/" + "glove.6B.{}d.txt"
+squad_models = "content/question_answering_assignment_celloscope/output/" + exp
 
 
 # preprocessing values
